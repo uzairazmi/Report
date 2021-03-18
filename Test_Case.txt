@@ -1,3 +1,3 @@
 1.if term less than 3,it Shows a Message 
 2.if number is not divisible on given position,it Displays a message
-3.Series can't generated after 37 cause of int bit length
+3.Series can't be generated after 37 cause of int bit length
